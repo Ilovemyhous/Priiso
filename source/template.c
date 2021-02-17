@@ -345,7 +345,7 @@ int main(int argc, char **argv, char** env) {
 	strcat(outstr,"Author......... Ilovemyhouse\n");
 	strcat(outstr,"Compiled....... 21.12.2020 17:39\n");
 	strcat(outstr, " \n"); 
-	strcat(outstr,"WARNING! THIS TOOL WORKED ON MY 4.3E WII AND I'M NOT RESPONSABLE IF YOUR WII OR WIIU WILL GET SOMEHOW BRICKED! IF YOU ENCOUNTER A BUG OR ISSUE; IMMEDIATLY CONTACT Ilovemyhouse ON DISCORD. BY CONTINUING; YOU ACCEPT TO THESE TERMES. IF YOU DON'T AGREE; PRESS HOME TO QUIT.\n");
+	strcat(outstr,"WARNING! THIS TOOL WORKED ON MY 4.3E WII AND I'M NOT RESPONSABLE IF YOUR WII OR WIIU WILL GET BRICKED! IF YOU ENCOUNTER A BUG OR ISSUE; IMMEDIATLY CONTACT Ilovemyhouse ON DISCORD. BY CONTINUING; YOU ACCEPT TO THESE TERMES. IF YOU DON'T AGREE; PRESS HOME TO QUIT. THIS TOOLS IS COMMING AS IT, THERE IS NO WARRANTY!\n");
 	strcat(outstr, " \n");
 	strcat(outstr, "Press A to show the infos.\n");
 	//strcat(outstr, "Press B to show a Debug text.\n");
