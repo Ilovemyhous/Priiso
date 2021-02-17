@@ -1,5 +1,3 @@
-Test
-
 #include <gccore.h>
 #include <wiiuse/wpad.h>
 #include <inttypes.h>
@@ -343,7 +341,7 @@ int main(int argc, char **argv, char** env) {
 	strcat(outstr," )___/ )   / _)(_ \\__ \\ )(_)( \n");
 	strcat(outstr,"(__)  (_)\\_)(____)(___/(_____)\n");
 	strcat(outstr, " \n");                      
-	strcat(outstr,"Priso......... v1.0.0\n");
+	strcat(outstr,"Priso......... v1.0.1\n");
 	strcat(outstr,"Author......... Ilovemyhouse\n");
 	strcat(outstr,"Compiled....... 21.12.2020 17:39\n");
 	strcat(outstr, " \n"); 
@@ -369,6 +367,7 @@ int main(int argc, char **argv, char** env) {
 		if ( pressed & WPAD_BUTTON_HOME )
 		{
 			printf("Exiting...\n");
+			sleep(0);
 			exit(0);
 		}
 		// Debug
