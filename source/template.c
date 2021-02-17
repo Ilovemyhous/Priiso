@@ -1,3 +1,5 @@
+Test
+
 #include <gccore.h>
 #include <wiiuse/wpad.h>
 #include <inttypes.h>
