@@ -1,4 +1,4 @@
 # Priiso
-A Homebrew that lists usefull information about you'r Wii.
+A Homebrew that lists usefull information about your Wii.
 
-This project helps the people from the Nintendo Hacks 2.5 Discord server (https://discord.gg/rx7PpkRA8g). I'm pretty new into C, sooo which me luck.
+This homebrew goes deep into the system, but shouldn't write anythingn but this doesn't come without saying that **I'm not responsible for any damange to your Wii!**
